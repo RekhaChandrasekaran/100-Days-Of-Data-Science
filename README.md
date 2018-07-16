@@ -6,3 +6,9 @@
 
 [x] Setup - Anaconda, Jupyter, Git Project  
 [x] Push to Git
+
+#### Day 2 - July 16, 2018
+- Intermediate Python  
+  - Dictionaries
+  - Matplotlib
+  - Pandas
