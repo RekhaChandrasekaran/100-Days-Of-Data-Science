@@ -12,3 +12,10 @@
   - Dictionaries
   - Matplotlib
   - Pandas
+
+#### Day 3 - July 17, 2018
+- Intermediate Python
+  - Pandas loc, iloc
+  - Comparison Operators
+  - Numpy boolean Operators
+  - +
