@@ -18,4 +18,5 @@
   - Pandas loc, iloc
   - Comparison Operators
   - Numpy boolean Operators
-  - +
+  - Loops
+  - Random Numbers
