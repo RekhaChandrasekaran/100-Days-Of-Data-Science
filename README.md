@@ -20,3 +20,8 @@
   - Numpy boolean Operators
   - Loops
   - Random Numbers
+
+#### Day 4 - July 18, 2018
+- Python for Data Science Toolbox
+  - Functions, Nested Functions
+  - Scope
