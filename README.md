@@ -25,3 +25,9 @@
 - Python for Data Science Toolbox
   - Functions, Nested Functions
   - Scope
+
+#### Day 5 - July 19, 2018
+  - Function arguments - default, flexible
+  - Lambda, yay!
+  - Anonymous functions
+  - Error Handling
